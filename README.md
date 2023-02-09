@@ -1,1 +1,2 @@
-My first readme
+# ALX-ZERO_DAY
+I'm now a ALX Student, this is my first repository as a full-stack enginee
